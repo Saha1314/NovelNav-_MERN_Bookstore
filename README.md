@@ -1,4 +1,4 @@
-# Bookstore Application
+# NovelNav - Bookstore Application
 
 This repository contains the code for a Bookstore application built using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to manage a collection of books, including adding, retrieving, updating, and deleting book entries.
 
